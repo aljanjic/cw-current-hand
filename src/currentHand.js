@@ -1,5 +1,7 @@
 function currentHand() {
-  return 'hello';
+  return [];
+
+  
 }
 
 module.exports = currentHand;

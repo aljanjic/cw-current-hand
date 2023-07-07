@@ -1,7 +1,7 @@
-const hello = require('./currentHand');
+const currentHand = require('./currentHand');
 
 describe('currentHand', () => {
-  it('should return hello', () => {
-    expect(currentHand()).toBe('hello');
+  it("[] should return []", () => {
+    expect(currentHand([])).toStrictEqual([]);
   });
 });

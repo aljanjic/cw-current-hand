@@ -68,3 +68,10 @@ Good luck!
 - ✅ DONE
 
 ## Plans
+- ✅ "[] should return []"
+- ⚠ "['Hog Rider','Earthquake','Archer Queen','Giant Skeleton','Fire Spirit','Cannon'] should return ['Hog Rider', 'Earthquake']"
+- ⚠ " [
+    'Hog Rider','Earthquake','Archer Queen','Giant Skeleton','Fire Spirit','Cannon','Skeletons','Hog Rider','The Log','Fire Spirit','Earthquake','Giant Skeleton','Skeletons','Archer Queen','Fire Spirit','Cannon','Giant Skeleton','Skeletons'
+    ] should return 
+
+['Hog Rider', 'The Log', 'Earthquake', 'Archer Queen']"
